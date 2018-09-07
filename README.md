@@ -1,0 +1,2 @@
+# UserRights
+Sample Application
